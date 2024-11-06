@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d934ee6c-ded7-42e1-8fb4-ec942f21773e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/tdd/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Library-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/eci/cvds/tdd/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.eci.cvds.tdd.library.LibraryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.eci.cvds.tdd.library.LibraryTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.eci.cvds.tdd.library.LibraryTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.eci.cvds.tdd.library.LibraryTest.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lM4rPrNthVZIUtSRClUD5UyBD3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.LibraryTest.should_changeStatus_whenReturnALoan.executor": "Run",
+    "JUnit.LibraryTest.should_getBookAuthor.executor": "Run",
+    "JUnit.LibraryTest.should_getBookTitle.executor": "Run",
+    "JUnit.LibraryTest.should_getLoanDate.executor": "Run",
+    "JUnit.LibraryTest.should_getName.executor": "Run",
+    "JUnit.LibraryTest.should_loanABook_whenUserExists.executor": "Run",
+    "Maven.Library [clean].executor": "Run",
+    "Maven.Library [package].executor": "Run",
+    "Maven.Library [verify,sonar:sonar,-D...].executor": "Run",
+    "Maven.Library.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/Jaider",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ditov/OneDrive/Desktop/CVDS/laboratorio3",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn " />
+      <command value="docker pull sonarqube" />
+      <command value="mvn package" />
+      <command value="mvn verify sonar:sonar -D sonar.token=sqa_2b686785a95c214629a6f4ac919d355e647c7433" />
+      <command value="mvn verify sonar:sonar -D sonar.token=squ_52003c610995cf797ee0e646af41b8aaa570cf30" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LibraryTest.should_getName">
+    <configuration name="LibraryTest.should_changeStatus_whenReturnALoan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.cvds.tdd.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.eci.cvds.tdd.library" />
+      <option name="MAIN_CLASS_NAME" value="edu.eci.cvds.tdd.library.LibraryTest" />
+      <option name="METHOD_NAME" value="should_changeStatus_whenReturnALoan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.should_getBookAuthor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.cvds.tdd.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.eci.cvds.tdd.library" />
+      <option name="MAIN_CLASS_NAME" value="edu.eci.cvds.tdd.library.LibraryTest" />
+      <option name="METHOD_NAME" value="should_getBookAuthor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.should_getBookTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.cvds.tdd.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.eci.cvds.tdd.library" />
+      <option name="MAIN_CLASS_NAME" value="edu.eci.cvds.tdd.library.LibraryTest" />
+      <option name="METHOD_NAME" value="should_getBookTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.should_getLoanDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.cvds.tdd.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.eci.cvds.tdd.library" />
+      <option name="MAIN_CLASS_NAME" value="edu.eci.cvds.tdd.library.LibraryTest" />
+      <option name="METHOD_NAME" value="should_getLoanDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.should_getName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.cvds.tdd.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.eci.cvds.tdd.library" />
+      <option name="MAIN_CLASS_NAME" value="edu.eci.cvds.tdd.library.LibraryTest" />
+      <option name="METHOD_NAME" value="should_getName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="laboratorio3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="laboratorio3" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LibraryTest.should_getName" />
+        <item itemvalue="JUnit.LibraryTest.should_getLoanDate" />
+        <item itemvalue="JUnit.LibraryTest.should_getBookAuthor" />
+        <item itemvalue="JUnit.LibraryTest.should_getBookTitle" />
+        <item itemvalue="JUnit.LibraryTest.should_changeStatus_whenReturnALoan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d934ee6c-ded7-42e1-8fb4-ec942f21773e" name="Changes" comment="" />
+      <created>1724976810183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724976810183</updated>
+    </task>
+    <servers />
+  </component>
+</project>
